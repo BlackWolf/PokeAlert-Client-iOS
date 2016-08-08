@@ -1,0 +1,4 @@
+.DS_Store
+PokeAlert/pokemondata/*.mp3
+PokeAlert/pokemondata/*.png
+PokeAlert/Assets.xcassets/AppIcon.appiconset/
